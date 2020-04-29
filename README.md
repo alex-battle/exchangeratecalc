@@ -1,5 +1,7 @@
 # Exchange Rate Calculator
 
+Demo link: https://alex-exchange-rate-calculator.surge.sh
+
 Choose countries to get the exchange rate for a specific amount
 
 Project Specifications
